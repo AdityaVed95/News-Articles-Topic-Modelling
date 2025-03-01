@@ -1,23 +1,23 @@
 # News-Articles-Topic-Modelling
 NLP Project on Topic Modelling using Latent Dirichlet Allocation
 
-Input Dataset : Has only the articles text content
+==> Input Dataset : Has only the articles text content
 
 
-Output Labelled Dataset : CSV file with article id, topic id, and topic name
+==> Output Labelled Dataset : CSV file with article id, topic id, and topic name
 
 
-Output Trained Model : 
+==> Output Trained Model : 
 
-Predicts Topic(s) with Percentage of article containing that topic for any new/existing article  
+- Predicts Topic(s) with Percentage of article containing that topic for any new/existing article  
 
-Predicts it's nearest matched articles (with it's match Percentage).
+- Predicts it's nearest matched articles (with it's match Percentage).
 
-Gives top words of articles on a given topic
+- Gives top words of articles on a given topic
 
 
-Check out live demo :
+==> Check out live demo :
 
-Demo 1 : https://youtu.be/VbElg7abO3A
+- Demo 1 : https://youtu.be/VbElg7abO3A
 
-Demo 2 : https://youtu.be/zoNyQsQ8LMY
+- Demo 2 : https://youtu.be/zoNyQsQ8LMY
