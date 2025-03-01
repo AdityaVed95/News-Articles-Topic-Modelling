@@ -1,0 +1,6 @@
+Training data size is more than 0.5GB and cannot be pushed to github
+
+Download the input training data from here : 
+https://drive.google.com/file/d/1yq0GTQuMUedJN3BdaLjB82U-LFXtE4ah/view?usp=drive_link
+
+And put it in this directory

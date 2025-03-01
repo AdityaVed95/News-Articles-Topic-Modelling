@@ -1,0 +1,181 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
+
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #121212; /* Dark Background */
+    color: white;
+    text-align: center;
+    padding-top: 80px; /* Adjust for navbar */
+}
+
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(200, 0, 0, 0.9);
+    padding: 15px 40px;
+    box-shadow: 0px 4px 15px rgba(255, 0, 0, 0.2);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar .logo {
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+}
+
+.navbar .logo:hover {
+    color: black;
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(200, 0, 0, 0.8)), 
+                url('https://source.unsplash.com/1600x900/?technology') center/cover no-repeat;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 30px;
+}
+
+/* Form Styling */
+textarea {
+    width: 80%;
+    height: 200px;
+    padding: 12px;
+    font-size: 16px;
+    background-color: #1e1e1e;
+    color: white;
+    border: 2px solid red;
+    border-radius: 8px;
+    outline: none;
+    resize: none;
+    transition: all 0.3s ease;
+}
+
+textarea:focus {
+    border-color: white;
+    box-shadow: 0px 0px 8px rgba(255, 0, 0, 0.5);
+}
+
+/* Button Styling */
+button {
+    background: linear-gradient(135deg, #ff1a1a, #cc0000);
+    color: white;
+    font-size: 18px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0px 4px 6px rgba(255, 0, 0, 0.3);
+    margin-top: 10px;
+}
+
+button:hover {
+    background: linear-gradient(135deg, #cc0000, #990000);
+    transform: scale(1.05);
+}
+
+/* Table Styling */
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #1e1e1e;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 0px 10px rgba(255, 0, 0, 0.5);
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #ff1a1a;
+    color: white;
+}
+
+th {
+    background-color: red;
+    color: black;
+    font-size: 16px;
+}
+
+td {
+    font-size: 14px;
+    background-color: #222;
+}
+
+/* Similar Articles Container */
+#similarArticles {
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+}
+
+/* Individual Article Box */
+#similarArticles div {
+    background-color: #1e1e1e;
+    border-left: 5px solid red;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(255, 0, 0, 0.3);
+    text-align: left;
+    transition: all 0.3s ease;
+}
+
+#similarArticles div:hover {
+    transform: translateY(-3px);
+    box-shadow: 0px 6px 12px rgba(255, 0, 0, 0.5);
+}
+
+/* Links */
+a {
+    color: #ff4d4d;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .hero {
+        height: 180px;
+        font-size: 20px;
+    }
+
+    table {
+        width: 95%;
+    }
+
+    textarea {
+        width: 95%;
+    }
+
+    button {
+        width: 95%;
+    }
+}

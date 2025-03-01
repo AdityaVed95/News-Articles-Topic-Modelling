@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="http://127.0.0.1:8001/static/css/home.css">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <div class="navbar">
+        <a href="#" class="logo">Topic Explorer</a>
+    </div>
+
+    <!-- Hero Section -->
+    <div class="hero">
+        <h1 style="color: white;">Browse Articles by Topic</h1>
+    </div>
+
+    <!-- Content Section -->
+    <div class="container">
+        <h2>Get articles on the following topics:</h2>
+        <ul class="topics-list">
+            {% for topic_id, topic_name in topic_names.items() %}
+            <li>
+                <a href="http://127.0.0.1:8001/get_articles_by_topic/{{topic_id}}">{{topic_name}}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>

@@ -1,0 +1,2 @@
+The model size is more than 14GB and cannot be pushed to github.
+Please run this notebook : 1_model_training, and store it's result in this folder.

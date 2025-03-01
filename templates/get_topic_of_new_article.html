@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Article Topic Prediction</title>
+    <link rel="stylesheet" href="http://127.0.0.1:8001/static/css/get_topic_of_new_article.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        function getArticleContent() {
+            const article_content = document.getElementById("article_content").value;
+            article_json_object = {
+                "article_content":article_content
+            }
+            $.ajax
+            ({
+                url: "http://127.0.0.1:8001/api_get_topic_of_new_article",
+                method: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify(article_json_object),
+
+                success: function (response) 
+                {
+                    // Select the table (excluding headers)
+                    let table = document.querySelector("table");
+
+                    // Clear previous rows except headers
+                    table.innerHTML = `
+                        <tr>
+                            <th>Topic</th>
+                            <th>Percentage of Article comprising this topic</th>
+                        </tr>`;
+                    
+                    // Loop through the response data and add new rows
+                    for (let item of response.final_article_topics) 
+                    {
+                        let newRow = table.insertRow(); // Create a new row
+                        
+                        let cell1 = newRow.insertCell(0); // Insert first column
+                        let cell2 = newRow.insertCell(1); // Insert second column
+
+                        // Create the hyperlink for item[1]
+                        let link = document.createElement("a");
+                        link.href = `http://127.0.0.1:8001/get_articles_by_topic/${item[0]}`;
+                        link.textContent = item[1];
+                        link.target = "_blank"; // Open in new tab
+
+                        cell1.appendChild(link); // Append hyperlink to cell
+                        cell2.textContent = item[2]; // Set percentage value                    
+                    }
+                },
+                error: function(error) {
+                    alert("Some Error Occurred !!!!!")
+                }
+            });
+
+
+            $.ajax
+            ({
+                url: "http://127.0.0.1:8001/api_get_similar_articles",
+                method: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify(article_json_object),
+
+                success: function (response) 
+                {
+                    console.log(response.similar_articles);
+
+                    let similarArticlesDiv = document.getElementById("similarArticles");
+                    similarArticlesDiv.innerHTML = ""; // Clear previous results
+
+                    // Loop through each similar article
+                    response.similar_articles.forEach(article => {
+                        let article_id = article[0];  // First element is article_id
+                        let similarity_score = article[1];  // Second element is similarity score
+                        let article_content = article[2];  // Third element is article_content
+
+                        // Create a div container for each article
+                        let articleDiv = document.createElement("div");
+                        articleDiv.style.border = "1px solid black";
+                        articleDiv.style.padding = "10px";
+                        articleDiv.style.margin = "10px";
+                        articleDiv.style.borderRadius = "5px";
+                        articleDiv.style.backgroundColor = "#f9f9f9";
+
+                        // Create article ID link
+                        let articleLink = document.createElement("a");
+                        articleLink.href = `http://127.0.0.1:8001/get_article_by_id/${article_id}`;
+                        articleLink.textContent = `Article ID: ${article_id}`;
+                        articleLink.target = "_blank"; // Open in new tab
+                        articleLink.style.fontWeight = "bold";
+                        articleLink.style.color = "#007bff";
+                        articleLink.style.textDecoration = "none";
+
+                        // Create similarity score paragraph
+                        let similarityPara = document.createElement("p");
+                        similarityPara.textContent = `Similarity Score: ${similarity_score}`;
+                        similarityPara.style.margin = "5px 0";
+
+                        // Create article content paragraph
+                        let contentPara = document.createElement("p");
+                        contentPara.textContent = `Content: ${article_content}`;
+                        contentPara.style.margin = "5px 0";
+                        contentPara.style.fontSize = "14px";
+                        contentPara.style.color = "#333";
+
+                        // Append elements to articleDiv
+                        articleDiv.appendChild(articleLink);
+                        articleDiv.appendChild(document.createElement("br"));
+                        articleDiv.appendChild(similarityPara);
+                        articleDiv.appendChild(contentPara);
+
+                        // Append articleDiv to similarArticlesDiv
+                        similarArticlesDiv.appendChild(articleDiv);
+                    });
+
+                },
+                error: function(error) {
+                    alert("Some Error Occurred !!!!!")
+                }
+            });
+
+            
+        }
+    </script>
+</head>
+<body>
+    <!-- Navbar -->
+    <div class="navbar">
+        <a href="#" class="logo">Topic Predictor</a>
+    </div>
+
+    <!-- Hero Section -->
+    <div class="hero">
+        <h1>Predict the Topic of Your Article</h1>
+    </div>
+
+    <!-- Main Content -->
+    <div class="container">
+        <h2>Enter Your Article Below:</h2>
+        <br><br>
+        <textarea id="article_content" placeholder="Type or Paste your Article here..." rows="10"></textarea>
+        <br>
+        <button onclick="getArticleContent()">Submit</button>
+        <br><br>
+        <h3>Topics Discovered:</h3>
+        <table id="topicsTable" border="1">
+            <tr>
+                <th>Topic</th>
+                <th>Percentage of Article comprising this topic</th>
+            </tr>
+        </table>
+
+        <h3>Similar Articles:</h3>
+        <div id="similarArticles"></div>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Articles on {{ topic_name }}</title>
+    <link rel="stylesheet" href="http://127.0.0.1:8001/static/css/get_articles_by_topic.css"> <!-- Link to modern UI CSS -->
+</head>
+<body>
+
+    <!-- Navbar -->
+    <div class="navbar">
+        <a href="#" class="logo">Topic Explorer</a>
+    </div>
+
+    <!-- Hero Section -->
+    <div class="hero">
+        <h1 style="color: white;">Top Articles on {{ topic_name }}</h1>
+    </div>
+
+    <!-- Content Section -->
+    <div class="container">
+        <h2>Explore the best articles on this topic:</h2>
+        <ul class="articles-list">
+            {% for article_id, article_content in articles_dict.items() %}
+            <li>
+                <a href="http://127.0.0.1:8001/get_article_by_id/{{article_id}}">{{article_content}}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+
+</body>
+</html>

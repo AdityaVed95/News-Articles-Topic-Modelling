@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Article Details</title>
+    <link rel="stylesheet" href="http://127.0.0.1:8001/static/css/get_article_by_id.css"> <!-- Link to modern UI CSS -->
+</head>
+<body>
+
+    <!-- Navbar -->
+    <div class="navbar">
+        <a href="#" class="logo">Topic Explorer</a>
+    </div>
+
+    <!-- Hero Section -->
+    <div class="hero">
+        <h1>Article Details</h1>
+    </div>
+
+    <!-- Content Section -->
+    <div class="container">
+        <h2>Article Content:</h2>
+        <p class="article-content">{{ article }}</p>
+        
+        <div class="section-divider"></div>
+
+        <!-- Topics Covered -->
+        <h2>Topics Covered in this Article:</h2>
+        <ul class="topics-list">
+            {% for topic_name, match_percent in topics_of_article %}
+            <li>
+                <strong>{{ topic_name }}</strong> 
+                <span class="match-percent">({{ match_percent }}% of the article)</span>
+            </li>
+            {% endfor %}
+        </ul>
+
+        <div class="section-divider"></div>
+
+        <!-- Top Words -->
+        <h2>Key Words from this Topic:</h2>
+        <ul class="topics-list">
+            {% for topic_word in top_words %}
+            <li>{{ topic_word }}</li>
+            {% endfor %}
+        </ul>
+
+        <div class="section-divider"></div>
+
+        <!-- Similar Articles -->
+        <h2>Similar Articles:</h2>
+        <ul class="similar-articles">
+            {% for similar_article in similar_articles %}
+            <li>
+                <a href="http://127.0.0.1:8001/get_article_by_id/{{similar_article[0]}}">Article ID: {{similar_article[0]}}</a>
+                <p>Similarity Match: <span class="match-percent">{{ similar_article[1] }}%</span></p>
+                <p class="article-snippet">{{ similar_article[2] }}</p>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+
+</body>
+</html>
