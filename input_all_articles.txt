@@ -1,1 +1,473 @@
-Training data size is more than 0.5GB and cannot be pushed to github
+(Gentle Note : Attaching a subset of the input dataset since the original dataset is more than 0.5GB and cannot be pushed to github)
+
+Children in war-ravaged Afghanistan are safer than those growing up in London or New York, NATO's top civilian envoy says.
+
+Mark Sedwill, the senior civilian representative for NATO, made the comments on an episode of CBBC's "Newsround," which is airing Monday.
+
+In the show -- a BBC current-affairs program for children -- several youngsters in Kabul, Afghanistan, say they are afraid of daily violence and the frequent explosions in their war-torn country.
+
+In response, Sedwill says: "Here in Kabul, and other big cities actually, there are very few of these bombs. The children are probably safer here than they would be in London, New York or Glasgow or many other cities.
+
+"Most children can go about their lives in safety. It's a very family-oriented society. So it is a little bit like a city of villages," he added.
+
+A U.N. report released earlier this year seems to contradict Sedwill's assessment.
+
+The February report, by the special representative for children and armed conflict, says that children in Afghanistan are increasingly the victims of roadside attacks, crossfire between militants and international forces, and air strikes.
+
+In addition, they have been used as human shields and recruited as suicide bombers.
+
+The report also said boys are sexually abused and exploited by armed groups and girls schools have been burned down.
+
+Earlier this year, there was a rash of poisonings involving schoolgirls, and several instances of acid attacks have been reported.
+
+On Monday, Sedwill elaborated on what he meant in his remark.
+
+"Any comment you have to clarify obviously wasn't very well put and the comparison I made with western cities distracted attention from the important point I was seeking to make," he said.
+
+"I was trying to explain to an audience of British children how uneven violence is across Afghanistan. Half the insurgent violence takes place in 10 of the 365 districts, and, in those places, children are too often the victims of IEDs and other dangers. But, in cities like Kabul where security has improved, the total levels of violence, including criminal violence, are comparable to those which many western children would experience.
+
+"For most Afghans, the biggest challenges are from poverty -- the absence of clean water, open sewers, malnutrition, disease -- and many more children are at risk from those problems than from the insurgency."
+
+
+@delimiter
+The Hard Rock Cafe franchise, famed for its rock'n'roll memorabilia, is expanding its reach into hotels and casinos -- but its chief executive says the brand will remain "special."
+
+"We don't want to be in every street corner, in every city of the UK," Hard Rock's Hamish Dodds told CNN.
+
+"We want to have a few very special locations, and keep it special," the 55-year-old Scotsman said from his office in Orlando, Florida.
+
+The first Hard Rock Cafe opened in London in 1971, and in the 1980s the company expanded globally. It now has more than 175 venues across 53 countries.
+
+The franchise is famous for its large music memorabilia collection, consisting of more than 70,000 pieces rotated through its restaurants.
+
+Hard Rock's ambition, according to its website, is to provide "the world's most comprehensive visual history of rock 'n' roll."
+
+Some of the company's musical treasures include Jimi Hendrix's Flying V guitar, John Lennon's handwritten lyrics to "Help" and one of Madonna's classic bustiers.
+
+The company is now expanding from its cafe base into the hotel and casino market. It already has 10 hotels and six hotels with casino facilities across the U.S., Asia and Latin America -- but is yet to establish a hold in the European market.
+
+Breaking into such markets has been extremely time consuming, Dodds said. "Gaming in particular is an incredibly good business but it's very difficult. It's highly regulated, there are only certain markets you can go to, " he said. "It's very difficult in terms of barriers to entry."
+
+Dodds believes there is still scope to expand the cafe business globally -- and he's hoping to add one of the world's biggest cities to the list of cafes. "You know, I think there are always little parts of our empire that we haven't quite been able to nail ...but Sao Paolo's one that I think I'd like to get in to," he said.
+
+CNN's Stina Backer contributed to this report
+
+
+@delimiter
+An estimated 7 million people died due to air pollution globally in 2012, with more than half of the deaths linked to indoor smoke from cook stoves, according to a report by the World Health Organization.
+
+Air pollution is now the "single largest environmental health risk," the U.N. health agency stated in the report. The majority of the deaths associated with air pollution were heart disease, stroke, chronic obstructive pulmonary disease and lung cancer.
+
+"Few risks have greater impact on global health today than air pollution: the evidence signals the need for concerted action to clean up the air we all breathe," said Dr. Maria Neira, director of WHO's Department for Public Health, Environmental and Social Determinants of Health in the report.
+
+The Western Pacific (which includes east Asia and the Pacific islands)and the Southeast Asian regions were estimated to be the hardest-hit, according to the report, with 2.8 million and 2.3 million deaths as a result of polluted air in 2012.
+
+In the Southeast Asian region, the bulk of it, with 1.7 million premature deaths, was attributed to indoor air pollution.
+
+Around 3 billion people in the world rely on coal, wood and open-air fires for household cooking, according to the WHO's estimates. In India, 63% of the population uses such solid fuels for cooking. These fuels produce harmful pollutants such as fine particulate matter and carbon monoxide.
+
+Country-specific data was not yet available in the report.
+
+The WHO findings further noted that women in developing countries are more exposed to household air pollution than men.
+
+"Poor women and children pay a hefty price from indoor air pollution since they spend more time at home breathing in smoke and soot from leaky coal and wood cook stoves," said Dr. Flavia Bustreo, WHO assistant director of General Family, Women and Child's Health in the report.
+
+Meanwhile, outdoor air pollution killed an estimated 3.7 million people, with more than 80% of the deaths occurring in low- and middle-income countries.
+
+The sources for ambient pollution include diesel engines and industrial emissions. Sixty percent of these deaths were due to cardiovascular diseases like stroke and heart disease.
+
+Do anti-pollution car bans actually work?
+
+China looks for blue-sky solutions as smog worsens
+
+
+@delimiter
+A federal judge has temporarily blocked a controversial Florida law requiring all welfare applicants to be drug-tested.
+
+U.S. District Court Judge Mary Scriven issued a temporary injunction Monday evening against enforcement of the law's "suspicionless drug testing" of adults seeking federal welfare.
+
+The law went into effect July 1, but a single father and the American Civil Liberties Union contend in a lawsuit that the new law is unconstitutional and violates Fourth Amendment protection against unreasonable search and seizure.
+
+"Perhaps no greater public interest exists than protecting a citizen's rights under the Constitution," the judge wrote, quoting a 1997 Hawaii case.
+
+Under the law, the Florida Department of Children and Family Services requires the drug tests of adults applying to the federal Temporary Assistance for Needy Families program. The aid recipients are responsible for the cost of the screening, which they recoup in their assistance if they qualify.
+
+Those who fail the required drug testing may designate another individual to receive the benefits on behalf of their children, but they do not receive a refund for cost of the test.
+
+Florida Gov. Rick Scott has championed the law, saying it provides "personal accountability." He added it was "unfair for Florida taxpayers to subsidize drug addiction."
+
+Florida is not the first state to pass such legislation. Michigan passed a similar law that was found to be unconstitutional by the 6th U.S. Circuit Court of Appeals in 2003 for violating the Fourth Amendment.
+
+The ACLU filed a class-action suit on behalf of an Orlando single father who opposed the drug test.
+
+Luis Lebron, an unemployed adult college student who cares for a 4-year-old son and disabled mother, was denied temporary cash assistance because he refused to be drug tested. The Navy veteran, an undergraduate at the University of Central Florida, contends the law violates his rights and adds he has never used illegal drugs.
+
+The judge, sitting in Orlando, agreed to halt the drug testing until the ACLU lawsuit is settled.
+
+But the judge denied the plaintiff's request to make the matter a class-action case.
+
+"I'm delighted for our client and delighted to have confirmation that all of us remain protected from unreasonable, suspicionless government searches and seizures," said Florida ACLU attorney Maria Kayanan in a written statement.
+
+The GOP-controlled legislature passed the bill, and Scott signed it into law in May 2011.
+
+"The governor obviously disagrees with the decision and he will evaluate his options regarding when to appeal," said his deputy press secretary Jackie Schutz.
+
+Since campaigning for governor, Scott has said that the drug-testing of welfare recipients "will help to prevent misuse of Florida tax dollars" and make sure the money goes to the children.
+
+"Research shows higher drug use among individuals receiving government assistance, and drug abuse also forces children into welfare assistance," Scott said while signing the bill into law.
+
+The ACLU said the state's own study found that of the 2,000 people who took the state drug test, only a small percentage tested positive.
+
+"It shows that a little bit more than 2% of the welfare applicants tested positive for drugs where it's about 8Â½% in the general public," said Howard Simon, executive director of the ACLU of Florida.
+
+Lane Wright, the governor's press secretary, said the study is flawed. "It doesn't take in the deterrent effect," Wright said.
+
+Wright added there's no way to factor how many people avoided taking the test fearing they would test positive for drugs.
+
+After being approved for temporary cash assistance, Luis Lebron was shocked by the mandatory drug test. He then contacted the ACLU.
+
+"This is an unconstitutional invasion of privacy, that you can't condition getting some benefit from the government by surrendering your constitutional rights," Simon said.
+
+Attorneys for the state say pre-employment drug testing is commonplace and that the Navy vet himself could have been subjected to random drug testing while in the military.
+
+The governor's office said it is confident the judge ultimately will uphold the constitutionality of the law, contending it's popular among the people of Florida.
+
+But Judge Scriven said in her ruling that based on the evidence, "there is a substantial likelihood" that Florida's law could be found unconstitutional.
+
+Added the ACLU's Simon: "We're the only state in the country that has this (law)."
+
+CNN's Michael Martinez contributed to this report.
+
+
+@delimiter
+
+"Terrorism and violence cannot be permissible in Islam," Tahir ul Qadri told CNN's Christiane Amanpour in 2010 after declaring a Fatwa on terrorism.
+
+The bold pronouncement thrust Qadri into headlines worldwide and led to an invitation to speak at the prestigious World Economic Forum and United States Institute for Peace.
+
+Two years on, the religious cleric has resurfaced in Pakistan, demanding free and fair elections, after spending the last six years living in Canada.
+
+Qadri has come a long way since his time as a parliamentarian during General Pervez Musharraf's regime in the early 2000s.
+
+After promoting his agenda from abroad -- speaking out in videos and books -- he is now back in the political spotlight in his home country, calling for a caretaker administration to take the government's place and carry out election reforms ahead of an upcoming vote.
+
+According to Qadri, the composition of the caretaker government should be decided with the input of the judiciary and the military.
+
+But in a country with a history of military coups, Qadri's mention of the army in the electoral process set off alarm bells with the current government and opposition who quickly reassured the Pakistani people that nothing would stand in the way of timely elections and the democratic process.
+
+Some Pakistanis have suggested Qadri is working on behalf of the military -- an allegation he denies. He maintains that he is working only to ensure a corruption-free electoral process.
+
+Qadri threatened that unless his election reform demands were met by Thursday, he would stage a "Million Man March" to the capital, paralyzing the city with thousands of supporters.
+
+"We will not succumb to these illegal demands," Senator Rehman Malik, Pakistan's Interior Minister told media Thursday, in anticipation of the protest, which is expected to arrive in Islamabad on Monday.
+
+Malik said he would not allow the rally to enter downtown Islamabad as it posed a security risk and would disrupt business operations in the city; he said the Pakistani government had cordoned off sensitive areas of Islamabad.
+
+"The residents of Islamabad are scared that mobs will raid their houses and there will be violence and murder," Malik said. "I will hold Qadri personally responsible if there is any violence or murders during this rally."
+
+Malik announced last week that he had intercepted intelligence that the Pakistan Taliban was planning to attack the gathering on Monday.
+
+Despite criticism from the government, Qadri seems intent on marching to the capital, spending millions on prime time television advertising to urge others to join him.
+
+"We are expecting one to two million people who will join the march", Shahid Mursaleen, spokesman for Tahir ul Qadri, told CNN.
+
+"We plan on removing the barricades put up by the government and we will remain in the city whether it is [for] two days or 30 days, until our demands are met," Mursaleen said.
+
+However, just two days before the planned march on Islamabad, the only political party supporting Qadri's march, the Mutahida Qaumi Movement (MQM), a coalition partner in the current government, pulled its support.
+
+Supporters maintain that Qadri is only trying to make a positive change in a country that is in need of help.
+
+They point to his welfare organization, called Minhaj ul Quran, which promotes "true Islamic teachings." According to its website, it has up to 280,000 members worldwide and works to build madrassahs around the country to teach young children the Quran.
+
+The "Million Man March," which is expected to reach Islamabad on Monday, could be a game changer, analysts say, because it could have a major impact on the democratic process -- but whether the outcome of that would be positive or negative at this crucial time for Pakistani politics is still unclear.
+
+
+@delimiter
+Syria's opposition opened an embassy Wednesday in Doha, Qatar, a day after Arab League representatives meeting there allowed the rebels to take Syria's seat at the summit.
+
+The embassy is the first for the Syrian National Coalition, which has been recognized by more than 100 nations as the legitimate representative of the Syrian people.
+
+Other coalition ambassadors -- in Paris, London, Washington and the representative to the Gulf Cooperation Council countries all operate without a formal embassy building, according to Sarah Karkour with the coalition's media office.
+
+The coalition is taking over the embassy building that formerly housed the diplomatic representatives of Syrian President Bashar al-Assad's government, which lashed out Wednesday at the Arab League's decision to seat rebel leaders at the summit.
+
+The government said the Arab League was in violation of its own charter for its decision to seat "an illegitimate party and raise a flag other than the Syrian national flag," the state-run SANA news agency reported.
+
+Russia also objected to the Syrian National Coalition's role at the summit, according to the state-run RIA-Novosti news service.
+
+CNN's Hamdi Alkhshali contributed to this report
+
+
+@delimiter
+Thierry Henry has assured New York Red Bulls fans that his return to English soccer club Arsenal will not interfere with his American commitments.
+
+The former France international signed his long-awaited two-month loan deal with the London side on Friday, but plans to be back for the start of the Major League Soccer season in March.
+
+"I always said I would not play in Europe again, but it is hard for me when it comes to Arsenal," the 34-year-old the Gunners' website.
+
+"I am not coming here for the whole season, I will be back and I want to win the MLS Cup with the Red Bulls. I hope it is win-win situation where I can help Arsenal and come back fit for the MLS season."
+
+Who are January's top transfer targets?
+
+Henry returns to a club where he scored a record 226 goals before joining Spain's Barcelona in mid-2007, then moving to the Big Apple in 2010. A statue of the player has been erected at the Emirates Stadium to mark Arsenal's 125th anniversary.
+
+"It is unreal, to be honest. But when it comes to Arsenal my heart will always do the talking. Once I knew the plan behind it I was OK with it," he said.
+
+Henry was brought in by manager Arsene Wenger with strikers Gervinho and Marouane Chamakh going to the African Cup of Nations this month, but recognizes that he will be providing backup for a player who has this season taken his mantle as the team's most influential player and captain -- top scorer Robin van Persie.
+
+"I am not coming here to be a hero or prove anything. I am just coming here to help. People have to understand that," said Henry, who has been training with the Arsenal squad since November and could make his first appearance in Monday's FA Cup tie against Leeds.
+
+"It is a loan deal and I'll be on the bench most of the time. If I can make the bench that is! The boss has a team here already who are doing something good. I am just going to be part of the squad."
+
+Henry joined Arsenal from Italy's Juventus in 1999 as an unproven raw talent, despite having already made his international debut and being part of France's World Cup-winning squad.
+
+Wenger transformed him from a wide player into one of the most effective forwards of his generation.
+
+"I am very happy. It was my desire and Thierry's desire," Wenger said of his former Monaco protege.
+
+"I am sure during these two months he will be a massive asset to the team in the dressing room and on the pitch. He can be relaxed, not under too much pressure and be a tremendous help to the team."
+
+
+@delimiter
+An 85-year-old American man detained and later let go by North Korean authorities described his time in custody as comfortable.
+
+Merrill Newman, who returned to the United States this weekend, told the Santa Cruz Sentinel in California that he was kept in a hotel room, not a jail cell, and fed traditional Korean food during his detention.
+
+If anything, he was "bored," the newspaper reported he said.
+
+Newman had traveled in October as a tourist to North Korea on a 10-day organized tour. Authorities nabbed him just minutes before his Beijing-bound plane was set to depart Pyongyang.
+
+American 'deported' by North Korea fought there 60 years ago
+
+For weeks, the North Korean government offered no explanation as to why they were holding Newman.
+
+An explanation finally came last month, when state media published and broadcast what they described as the Korean War veteran's "apology." The word was written atop the first of four handwritten pages detailing his alleged indiscretions.
+
+In the note dated November 9, Newman talked about his having advised the Kuwol Unit, part of the "intelligence bureau" fighting against Pyongyang during the Korean War. He detailed how he commanded troops to collect "information" and wage deadly attacks.
+
+"After I killed so many civilians and (North Korean) soldiers and destroyed strategic objects in the DPRK during the Korean War, I committed indelible offensive acts against the DPRK government and Korean people," Newman said, according to that report.
+
+When asked about the apology, Newman gave a smirk, according to the Santa Cruz Sentinel.
+
+"Obviously, that's not my English," he said.
+
+Newman's release coincided with a visit by U.S. Vice President Joe Biden to South Korea, where he laid a wreath in honor of those who died in the war that pitted North against South.
+
+A senior administration official said that Newman's release was the result of direct contact between Washington and Pyongyang. The official said the North Koreans had told the Obama administration in a telephone call that they were releasing Newman; no explanation was offered.
+
+In Palo Alto, California, Newman's neighbors tied yellow ribbons around objects to welcome him back.
+
+CNN's Greg Botelho and Ben Brumfield contributed to this report.
+
+
+@delimiter
+The silent, black-and-white film "The Artist" took top honors at the Academy Awards on Sunday night, garnering five Oscars for best picture, best directing, best costume design, best original music score and best actor.
+
+Jean Dujardin, who spoke just two words in "The Artist," was jubilant as he accepted his best actor Oscar. "I love your country," the French actor said.
+
+Asked backstage how he would make a transition to American "talkies," he said "I'm not an Amerian actor, I continue in French." His translator then said "It's possible if he could make another silent movie in America, he'd like to."
+
+See the full list of winners at the 84th Academy Awards
+
+Michel Hazanavicius beat out Martin Scorsese and Woody Allen to win his best directing Academy Award.
+
+"I am the happiest director in the world right now," Hazanavicius said as he accepted.
+
+Meryl Streep's channeling of former British Prime Minister Margaret Thatcher in "The Iron Lady" earned the best actress Oscar for her. It was her third Academy Award after 17 nominations.
+
+"When they called my name, I had this feeling I could hear half of America going 'Oh no, why her again? Well, whatever,'" Streep joked in her acceptance.
+
+"The Iron Lady" was also rewarded with a best make up Oscar for the work done to convince the audience that Streep was Thatcher.
+
+Christopher Plummer became the oldest actor to win an Academy Award when he was presented the best supporting actor Oscar for his role as an aging gay man in "Beginners."
+
+"You're only two years older than me, darling," the 82-year-old Plummer said as he looked at his Oscar trophy. "Where have you been all my life?" He also won the Golden Globe and Screen Actors Guild award in earlier competitions.
+
+Backstage, Plummer called his Oscar "sort of a renewal."
+
+"It has recharged me," Plummer said. "I hope I can do it for another 10 years at least. I'm going to drop dead on the stage or on a set. we don't retire."
+
+Octavia Spencer cried as she accepted the best supporting actress Oscar for her portrayal of a Mississippi maid in the civil-rights-era movie "The Help."
+
+"I'm sorry, I'm freaking out," Spencer said as the allotted time for her acceptance speech ended.
+
+Spencer's win was not a surprise to many Oscar watchers since she also won best supporting actress at the Golden Globes and the SAG awards.
+
+George Clooney's pre-Oscar prep: Basketball, and a nap
+
+Martin Scorsese's 3-D film "Hugo," which was up for awards in 11 categories, won five Oscars, including for best cinematography, best art direction, best sounding edit, best sound mixing and best visual effects.
+
+Woody Allen won the best original screenplay Oscar for his film about a time-traveling American writer, "Midnight in Paris."
+
+"The Descendants," a family drama starring George Clooney, won for best adapted screenplay.
+
+The Oscar for best foreign language film was awarded to Iran's "A Separation."
+
+"At this time, many Iranians all over the world are watching us and I imagine them to be very happy," director Asghar Farhadi said as he accepted.
+
+Viola Davis: I've really stepped into who I am
+
+The animated feature film Oscar went to "Rango," the story of a lizard stranded in the Mojave Desert.
+
+The best documentary feature Oscar was awarded to "Undefeated," the story of a high school football team that reversed its losing tradition.
+
+The Oscar for best film editing went to Kirk Baxter and Angus Wall, the editors of "The Girl With the Dragon Tattoo."
+
+"Man or Muppets," a song written for "The Muppets," won the best original movie song Oscar.
+
+What made Melissa McCarthy cry on Oscars night?
+
+"Saving Face," the story of a British-Pakistani plastic surgeon helps restore the faces of women scarred by acid attacks, won the best documentary short Oscar.
+
+The short live action film Oscar was given to "The Shore," which is about the reunion of two boyhood friends in Northern Ireland.
+
+"The Fantastic Flying Books of Mr. Morris Lessmore," which creates a world where books are alive, won the best animated short Oscar.
+
+Billy Crystal returned to the Oscar stage to host Hollywood's biggest night for a ninth time, opening with a comedic video that included Justin Bieber and Tom Cruise.
+
+"I'm here to get you the 18-to-24 demographic," the teenage Bieber told Crystal.
+
+See what else happened live at the CNN Marquee live blog
+
+Crystal belted out a new version of his usual opening song, "It's a Wonderful Night for Oscar," with lyrical references to each best picture nominee.
+
+The 84th annual Academy Awards was televised live Sunday night from the Hollywood & Highland Center, formerly Hollywood's Kodak Theatre. The Kodak name was taken off the theater after a bankruptcy court ruling last week.
+
+Crystal jokingly referred to it as the "beautiful Chapter 11 theater."
+
+
+@delimiter
+It was supposed to be the trip of a lifetime for Merrill Newman, a Korean War veteran who had long wanted to go to North Korea.
+
+It ended, according to his family, with the detention of Newman, 85, when he was pulled off a plane at Pyongyang's Sunan International Airport five minutes before it was to depart.
+
+Newman, of Palo Alto, California, has not been seen nor heard from since October 26, the day he and a traveling companion wrapped up a 10-day organized tour of North Korea, his son, Jeff Newman, told CNN.
+
+The U.S. State Department declined Thursday to confirm Newman's identity or whether he had been detained, citing privacy issues. North Korea has not publicly acknowledged that it is holding Newman.
+
+Newman's son believes the detention is the result of "a misunderstanding."
+
+"My father is a (Korean War) veteran and wanted to see the country and culture he has been interested in for years," he said. "He arranged this with a travel agent that was recommended and said was approved by the North Korean government for travel of foreigners. He had all the proper visas."
+
+Jeff Newman said his family has been working through the State Department since they found out that his father was being held.
+
+"We've worked through the State Department from the day he was supposed to depart," Newman said. "... We've heard nothing."
+
+Jeff Newman said what he has heard has primarily come from his father's traveling companion, who was on the plane. He identified the traveling companion as Bob Hamrdla, a friend who lives in the same retirement community.
+
+Newman was a customer of Juche Travel Services of London, and he traveled with "one other gentleman" to North Korea on the same private tour, Juche Travel spokesman David Thompson said in a written statement.
+
+"The tour arrangements were handled by the Korea International Travel Company," Thompson said. "Mr. Newman had in place all necessary and valid travel documents to take his tour. We have no information concerning what has occurred to result in the current situation."
+
+Bargaining chip?
+
+News of the apparent detention came as talks were under way between the United States and China, North Korea's closest ally, about reviving negotiations to dismantle Pyongyang's nuclear program.
+
+The timing raises questions about whether North Korea plans to use Newman as a bargaining chip in the negotiations, a move the West has previously accused it of doing to try to gain concessions.
+
+Glyn Davies, the U.S. special representative to North Korea, declined to link the two, but said the detention of American citizens "is an indication that North Korea seems not to be seeking a better relationship with the United States."
+
+"Again, these are separate matters, but we certainly think that North Korea should think long and hard about these cases and understand that, for the United States, these are matters of core concern for us, the fate of Americans who are in North Korea being held by North Koreans," he said Thursday.
+
+The United States, which does not maintain diplomatic relations with North Korea, is working with Sweden and North Korea's top ally, China, to try to resolve the issue.
+
+Questions have been raised about whether Newman's military service during the Korean War may be related to his detention.
+
+Park Syung-je, chairman of the Seoul-based Asia Strategy Institute, says Newman may have been arrested on espionage charges.
+
+As a Korean War veteran, Newman might have told his minders he fought against North Korea. They may have reported it, resulting in his detention.
+
+The U.S. Defense Department did not immediately respond Thursday to CNN's request for information on Newman's military service.
+
+Meeting with authorities
+
+The day before Newman was to leave North Korea, he and his tour guide met with "one or two Korean authorities," his son said.
+
+During that meeting, Newman's service record was discussed, he said.
+
+"I understand my dad was a bit bothered," Newman said. But neither he nor his traveling companion believed there was an issue.
+
+The next day, Newman and Hamrdla boarded a plane for Beijing.
+
+Five minutes before the plane was to depart, authorities boarded and asked to see Newman's passport, his son said.
+
+According to the traveling companion's account, the authorities then asked the elder Newman to leave the plane with them, Jeff Newman said.
+
+When the plane landed, Hamrdla immediately contacted the U.S. Embassy in Beijing to report Newman had been taken off the plane, the younger Newman said.
+
+'Trip of a lifetime'
+
+The elder Newman was enjoying the trip and called home from North Korea to tell his wife about it, his son said. The family also received postcards sent by Newman during the tour of North Korea, he said.
+
+The younger Newman called his father "old school," saying he never talked about his service and the Korean War.
+
+The trip to North Korea was "months in the planning," the younger Newman said. He said a Chinese tour company set up the tour, which included the services of two tour guides.
+
+"It was the trip of a lifetime," he said.
+
+Hamrdla has declined to speak with reporters but, in a statement, said the situation has to be a "terrible misunderstanding."
+
+The elder Newman suffers from a heart condition, his son said. Medication was delivered to the North Koreans via Swedish diplomats, but he said he is unsure whether the medication made it into his father's hands.
+
+"We would like to know his status. We would like the Swedish Embassy to meet with him to ensure he's getting his medication," Jeff Newman said. "At the end of the day, we'd like him to get on a plane and fly back to San Francisco. He's an 85-year-old man who followed all the protocols. He did everything that he was supposed to do."
+
+Others detained
+
+Newman is one of two American citizens being held in North Korea.
+
+The other one, Kenneth Bae, was arrested in November 2012 and sentenced in May to 15 years of hard labor. The North Korean government has said he was found guilty of "hostile acts" and attempts to topple the government.
+
+North Korean authorities have arrested four U.S. citizens for entering the country illegally since January 2009, the State Department said in its travel advisory Tuesday.
+
+Two other U.S. citizens who entered the country on valid visas were arrested for other reasons, and U.S. officials have received reports of other Americans being arbitrarily detained, according to the State Department.
+
+Other detained Americans
+
+South Koreans also have been detained.
+
+In 1999, a South Korean woman, Min Young-mee, was detained for six days after apparently saying the wrong thing on a tour to North Korea's Kumkang Mountains.
+
+"I hope the two Koreas reunite soon so we can visit each other," Min said. "North Korean defectors are living well in the South."
+
+A North Korean minder for the tour group reported her remarks to North Korean authorities. She wasn't allowed to return home with her tour group. After a written apology for violating North Korean laws, she returned safely.
+
+Travel to North Korea has increased in recent years as the government has eased travel restrictions, making it easier for Westerners to visit.
+
+On Tuesday, the State Department warned Americans not to travel to North Korea.
+
+Previously, the agency had warned U.S. citizens of the "serious risks" of travel to the reclusive country -- including arbitrary arrest for what would be innocuous acts elsewhere. But its last travel warning, issued on October 1, didn't include the stronger language advising against all travel.
+
+The photos North Korea didn't want you to see
+
+CNN's Anderson Cooper, David McKenzie, Christopher Laible, Sarah Baker, Michael Martinez and Ashleigh Cowie, along with journalist Yoonjung Seo, contributed to this report.
+
+
+@delimiter
+The House Republican leadership upped the ante Thursday in the ongoing debate over the size and scope of the federal budget, unveiling a proposal to cut spending by $375 billion over the next five years.
+
+House GOP Minority Whip Eric Cantor has been an outspoken critic of Democratic budget proposals.
+
+The bulk of the GOP's proposed savings would come from capping nondefense discretionary spending at the level of inflation.
+
+Among other things, the GOP proposal would also create a government spending review commission and eliminate retirement payments for federal workers who retire before the age of 62.
+
+President Obama "challenged us to come up with budget savings, and today House Republicans encourage him to not only look over our proposed ... common-sense taxpayer savings, but to join our effort," House Minority Whip Eric Cantor, R-Virginia, said in a statement.
+
+"For the sake of our young people and America's long-term fiscal viability, Congress simply cannot keep spending money that the president himself admits we don't have."
+
+Obama asked congressional Republicans to propose new budget reductions during an April 24 meeting at the White House.
+
+In May, the administration proposed $17 billion in cuts from the more than $3.4 trillion in spending approved for next year.
+
+Democratic congressional leaders have said that Obama's proposed reductions are only the start of a long budget review process. They have also argued that more short-term spending is needed to help stimulate a weak economy.
+
+Under the current budget plan, the federal government will run an anticipated deficit of $1.2 trillion in the next fiscal year.
+
+The White House said Thursday the Republican plan fell far short of its claims.
+
+An administration official noted that the GOP pledge to use $45 billion in future TARP repayments to fund deficit reduction is already part of the president's plan.
+
+The official also pointed out that most of the expected savings Republicans list would come from capping discretionary spending on current programs that go mostly unidentified in Thursday's release except by category. The plan would also end similarly unspecified domestic programs in areas -- like education and infrastructure -- where significant cuts are unlikely to find the required congressional support.
+
+The actual dollar figure in savings that would come from cuts to programs specifically named in the GOP proposal is roughly $23 billion over five years -- around a quarter of the $100 billion in cuts Obama proposed several weeks ago.
+
