@@ -6,6 +6,8 @@ NLP Project on Topic Modelling using Latent Dirichlet Allocation
 
 ==> Output Labelled Dataset : CSV file with article id, topic id, and topic name
 
+(Can be beneficial for supervised learning algorithms like Text Classification)
+
 
 ==> Output Trained Model : 
 
