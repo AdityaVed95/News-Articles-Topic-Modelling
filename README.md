@@ -1,7 +1,7 @@
 # News-Articles-Topic-Modelling
 NLP Project on Topic Modelling using Latent Dirichlet Allocation
 
-==> Input Dataset : Has only the articles text content
+==> Input Dataset : Has only the articles text content of 110K+ diverse articles
 
 
 ==> Output Labelled Dataset : CSV file with article id, topic id, and topic name
