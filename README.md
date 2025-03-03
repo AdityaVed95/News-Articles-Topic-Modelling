@@ -16,5 +16,4 @@ NLP Project on Topic Modelling using Latent Dirichlet Allocation
 - Gives top words of articles on a given topic
 
 
-==> Check out demo :
-
+==> Check out demo : https://youtu.be/ZM5OKM7KBxc
